@@ -1,0 +1,19 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+a {
+	color: #09017d ;
+	text-decoration: none;
+}
+body {
+	background-color:white;
+	background-image: url("Background.png");
+	font-family: "Times New Roman", ,sans ;
+	color: #;
+}
+h1 {
+	color:navy;
+	font-size: 30 px;
+}
