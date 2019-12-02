@@ -25,7 +25,7 @@ ellipse(350,215,25,25);
 
 //mouth
 fill(0);
-arc(290, 320, 80, 80, 0, PI+QUARTER_PI, CHORD);
+ellipse(290, 320, 80, 80);
 
 //nose
 fill(#ffa500);
